@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookwicklc.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookwicklc.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bookwicklc.store/collections/all.atom"/>
+  <title> BOOKWICKS LLC</title>
+  <updated>2022-07-22T21:09:20+03:00</updated>
+  <author>
+    <name> BOOKWICKS LLC</name>
+  </author>
+  <entry>
+    <id>https://bookwicklc.store/products/6911071223940</id>
+    <published>2022-07-22T21:09:20+03:00</published>
+    <updated>2022-07-22T21:09:20+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/eyebrow-correction-course-1"/>
+    <title>Eyebrow Correction Course</title>
+    <s:type></s:type>
+    <s:vendor> BOOKWICKS LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/3_33ec1205-b570-431e-95a4-6cbc3731cc70.webp?v=1658513361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong> BOOKWICKS LLC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Eyebrow correction is </span><span data-mce-fragment="1">a form of epilation</span><span data-mce-fragment="1">. The process removes the entire hair, including the root, rather than cutting it. It starts with cleaning the skin under and around the eyebrows with a gentle cleanser or quick wipe with alcohol to make sure the area is sterile, and it is easy to see the hairs.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6911071223940</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookwicklc.store/products/6911070568580</id>
+    <published>2022-07-22T21:07:33+03:00</published>
+    <updated>2022-07-22T21:07:33+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/tinting-course-1"/>
+    <title>Tinting Course</title>
+    <s:type></s:type>
+    <s:vendor> BOOKWICKS LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/2_44dadc43-3709-45a2-82aa-09a9d8a07bf9.webp?v=1658513254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong> BOOKWICKS LLC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Eyebrow tinting is </span><span data-mce-fragment="1">the process of applying semi-permanent dye to enhance, shape, and define your brows</span><span data-mce-fragment="1">. “Tinting allows a professional to manipulate the brow area by darkening the fine hairs that surround the perimeter of the brow to increase the width.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6911070568580</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookwicklc.store/products/6910819729540</id>
+    <published>2022-07-22T12:17:50+03:00</published>
+    <updated>2022-07-22T12:17:50+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/base-course-eyebrow-lamination-1"/>
+    <title>Base course eyebrow lamination</title>
+    <s:type></s:type>
+    <s:vendor>BOOKWICKS LL4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/1_31768a23-8819-4d0e-a50b-1015c4fc2e1d.webp?v=1658481470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOOKWICKS LL4<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The newest brow treatment available at the moment, and clients are loving it. Laminate brows is a process of using a chemical solution to break down the cuticle of the brow hair to enable the therapist to re-place the brow hair into a much more desirable shape, giving the client a fuller, neater, and more manageable brow.</p>
+<p data-mce-fragment="1">Covering, the theory behind health &amp; safety, including contraindications, anatomy and physiology and treatment specific knowledge, tint and waxing of the brow for the perfect finish.</p>
+<p data-mce-fragment="1">Full demonstration of brow lamination treatment and how to achieve different looks, from soft to dramatic.</p>
+<p data-mce-fragment="1">Once you have completed my course in Brow Lamination you will have the confidence and ability to go to work on friends, family and paying clients.</p>
+<p data-mce-fragment="1">My teaching techniques are great for the beginner, but also a valuable recap for previously trained therapists.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6910819729540</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookwicklc.store/products/6910757437572</id>
+    <published>2022-07-22T10:02:56+03:00</published>
+    <updated>2022-07-22T10:02:56+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/eyebrow-correction-course"/>
+    <title>Eyebrow Correction Course</title>
+    <s:type></s:type>
+    <s:vendor>BOOKWICKS LL4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/3.webp?v=1658473377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOOKWICKS LL4<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Eyebrow correction is </span><span data-mce-fragment="1">a form of epilation</span><span data-mce-fragment="1">. The process removes the entire hair, including the root, rather than cutting it. It starts with cleaning the skin under and around the eyebrows with a gentle cleanser or quick wipe with alcohol to make sure the area is sterile, and it is easy to see the hairs.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6910757437572</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookwicklc.store/products/6910757175428</id>
+    <published>2022-07-22T10:01:13+03:00</published>
+    <updated>2022-07-22T10:01:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/tinting-course"/>
+    <title>Tinting Course</title>
+    <s:type></s:type>
+    <s:vendor>BOOKWICKS LL4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/2.webp?v=1658473274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOOKWICKS LL4<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Eyebrow tinting is </span><span data-mce-fragment="1">the process of applying semi-permanent dye to enhance, shape, and define your brows</span><span data-mce-fragment="1">. “Tinting allows a professional to manipulate the brow area by darkening the fine hairs that surround the perimeter of the brow to increase the width.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6910757175428</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookwicklc.store/products/6910756880516</id>
+    <published>2022-07-22T09:59:24+03:00</published>
+    <updated>2022-07-22T09:59:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookwicklc.store/products/base-course-eyebrow-lamination"/>
+    <title>Base course eyebrow lamination</title>
+    <s:type></s:type>
+    <s:vendor>BOOKWICKS LL4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/8770/6500/products/1.webp?v=1658473164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BOOKWICKS LL4<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The newest brow treatment available at the moment, and clients are loving it. Laminate brows is a process of using a chemical solution to break down the cuticle of the brow hair to enable the therapist to re-place the brow hair into a much more desirable shape, giving the client a fuller, neater, and more manageable brow.</p>
+<p data-mce-fragment="1">Covering, the theory behind health &amp; safety, including contraindications, anatomy and physiology and treatment specific knowledge, tint and waxing of the brow for the perfect finish.</p>
+<p data-mce-fragment="1">Full demonstration of brow lamination treatment and how to achieve different looks, from soft to dramatic.</p>
+<p data-mce-fragment="1">Once you have completed my course in Brow Lamination you will have the confidence and ability to go to work on friends, family and paying clients.</p>
+<p data-mce-fragment="1">My teaching techniques are great for the beginner, but also a valuable recap for previously trained therapists.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://bookwicklc.store/products/6910756880516</id>
+      <title>Default Title</title>
+      <s:price currency="UAH">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
