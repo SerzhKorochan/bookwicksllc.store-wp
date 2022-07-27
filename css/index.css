@@ -1,31 +1,4 @@
-@font-face {
-    font-family: Assistant;
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=2c667c0d8d55e7400b0fe057cddf2e03170e0250952e59671d9823400854cea9") format("woff2"),
-    url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=2a0981abe110219b5cceca80b9a9b8c9ede658c7db37b454034815d16f5cb192") format("woff");
-}
-
-@font-face {
-    font-family: Assistant;
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-    src: url("https://fonts.shopifycdn.com/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=b66ba4df3e4175c7dd77dfc9aa28ece29f4d1e7b99ad6c1e7231c014b8317ea2") format("woff2"),
-    url("https://fonts.shopifycdn.com/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=f263cf5c03ff79ab272b64ebd3de86da32854588410f8e229ec3d43811414eda") format("woff");
-}
-
-
-
-@font-face {
-    font-family: Assistant;
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url("https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=2c667c0d8d55e7400b0fe057cddf2e03170e0250952e59671d9823400854cea9") format("woff2"),
-    url("https://fonts.shopifycdn.com/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=Ym9va3dpY2tsYy5zdG9yZQ&hmac=2a0981abe110219b5cceca80b9a9b8c9ede658c7db37b454034815d16f5cb192") format("woff");
-}
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&display=swap');
 
 
 :root {
@@ -234,7 +207,7 @@ summary.list-menu__item {
     }
 }
 
-.header {
+header.header {
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -250,7 +223,7 @@ summary.list-menu__item {
 }
 
 @media screen and (min-width: 990px) {
-    .header {
+    header.header {
         padding-top: 20px;
         padding-bottom: 20px;
     }
