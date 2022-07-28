@@ -1,3 +1,6 @@
 <?php
+get_header();
 
-echo "Bookwicks store is working.";
+sayHi("Serzh");
+
+get_footer();
